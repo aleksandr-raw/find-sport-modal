@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/postmodal/static/css/main.f8d48bb4.css",
+    "main.css": "/postmodal/static/css/main.af6bee47.css",
     "main.js": "/postmodal/static/js/main.051f833b.js",
     "index.html": "/postmodal/index.html",
-    "main.f8d48bb4.css.map": "/postmodal/static/css/main.f8d48bb4.css.map",
+    "main.af6bee47.css.map": "/postmodal/static/css/main.af6bee47.css.map",
     "main.051f833b.js.map": "/postmodal/static/js/main.051f833b.js.map"
   },
   "entrypoints": [
-    "static/css/main.f8d48bb4.css",
+    "static/css/main.af6bee47.css",
     "static/js/main.051f833b.js"
   ]
 }
